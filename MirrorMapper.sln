@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorMapper", "MirrorMapper\MirrorMapper.csproj", "{AFF36B54-B36F-46AE-9D3C-5A6DD969C621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF36B54-B36F-46AE-9D3C-5A6DD969C621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF36B54-B36F-46AE-9D3C-5A6DD969C621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF36B54-B36F-46AE-9D3C-5A6DD969C621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF36B54-B36F-46AE-9D3C-5A6DD969C621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FA15E1-92E3-4D67-BF36-724164F2EFBC}
+	EndGlobalSection
+EndGlobal

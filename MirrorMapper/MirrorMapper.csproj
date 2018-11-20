@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>MirrorMapper</PackageId>
+    <Authors>CodeFractal</Authors>
+    <Company>CodeFractal</Company>
+    <Product>CFToolkit</Product>
+    <Description>A lightweight library for mapping DataTables to C# objects.</Description>
+    <Version>1.1-beta</Version>
+    <PackageProjectUrl>https://github.com/CodeFractal/MirrorMapper</PackageProjectUrl>
+    <PackageIconUrl>https://s.gravatar.com/avatar/2eb3e29d189c888aaa61ea70b49e66e4?s=256</PackageIconUrl>
+    <RepositoryUrl>https://github.com/CodeFractal/MirrorMapper.git</RepositoryUrl>
+    <PackageTags />
+    <PackageReleaseNotes>This version should be bug-free but will remain in beta until it gains more exposure.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
